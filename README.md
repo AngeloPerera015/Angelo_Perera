@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S92062815
+- 👋 Hi, I’m Angelo Perera
 - 👀 I’m interested in Software Engineering/ Quality Assurance & Mobile Application Development
 - 🌱 I’m currently learning Bachelor of Software Engineering Honours
 - 💞️ I’m looking to collaborate on new projects to learn
